@@ -1,0 +1,17 @@
+/* -------------------------------------------------------------------------
+ * ELEMENTS/PAGE
+--------------------------------------------------------------------------*/
+
+html {
+  font-size: ($global-font-size / 16px) * 1em;
+  line-height: $global-line-height / $global-font-size;
+}
+
+body {
+  font-family: $global-font-family;
+  font-weight: $global-font-weight;
+  font-style: $global-font-style;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #20232a;
+}

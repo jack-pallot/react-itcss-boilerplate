@@ -1,0 +1,6 @@
+*.log
+*.txt
+.DS_Store
+/temp
+/node_modules
+/dist
